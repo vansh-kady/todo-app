@@ -29,6 +29,11 @@ This project was built to practice DOM manipulation, event handling, and basic f
 
 ---
 
+## Live Demo
+ https://vansh-kady.github.io/todo-app/
+
+ ---
+
 ##  Author
 
 **Vansh Kady**
