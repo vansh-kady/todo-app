@@ -5,7 +5,7 @@ This project helps users manage daily tasks with an intuitive and minimal interf
 
 ---
 
-##  Features
+## Features
 
 - Add new tasks
 - Mark tasks as completed
@@ -23,7 +23,7 @@ This project helps users manage daily tasks with an intuitive and minimal interf
 
 ---
 
-##  Purpose of the Project
+## Purpose of the Project
 
 This project was built to practice DOM manipulation, event handling, and basic frontend development concepts.
 
@@ -34,7 +34,7 @@ https://vansh-kady.github.io/todo-app/
 
 ---
 
-##  Author
+## Author
 
 **Vansh Kady**
 
